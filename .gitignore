@@ -1,0 +1,8 @@
+# ignore all MAST experiment folders
+MAST_2025-07-02T*/
+
+# ignore any zip archives
+*.zip
+
+# ignore FITS data files
+*.fits
