@@ -1,5 +1,5 @@
 # ignore all MAST experiment folders
-MAST_2025-07-02T*/
+MAST_*/
 
 # ignore any zip archives
 *.zip
